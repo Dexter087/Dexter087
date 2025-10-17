@@ -1,4 +1,6 @@
-## Hi there 👋
+## 📄 My Résumé
+- View/Download: **[Resume (PDF)](https://github.com/Dexter087/Dexter087/blob/main/Resume.pdf)**
+- Direct download (raw file): **[Resume.pdf](https://raw.githubusercontent.com/Dexter087/Dexter087/main/Resume.pdf)**
 
 <!--
 **Dexter087/Dexter087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
